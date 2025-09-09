@@ -1,0 +1,6 @@
+H:\c#\HomeWorkLesson1\Shapes\bin\Debug\Shapes.dll
+H:\c#\HomeWorkLesson1\Shapes\bin\Debug\Shapes.pdb
+H:\c#\HomeWorkLesson1\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+H:\c#\HomeWorkLesson1\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+H:\c#\HomeWorkLesson1\Shapes\obj\Debug\Shapes.dll
+H:\c#\HomeWorkLesson1\Shapes\obj\Debug\Shapes.pdb

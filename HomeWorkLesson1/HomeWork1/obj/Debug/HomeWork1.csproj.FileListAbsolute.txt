@@ -1,0 +1,10 @@
+H:\c#\HomeWorkLesson1\HomeWork1\bin\Debug\HomeWork1.exe.config
+H:\c#\HomeWorkLesson1\HomeWork1\bin\Debug\HomeWork1.exe
+H:\c#\HomeWorkLesson1\HomeWork1\bin\Debug\HomeWork1.pdb
+H:\c#\HomeWorkLesson1\HomeWork1\bin\Debug\Shapes.dll
+H:\c#\HomeWorkLesson1\HomeWork1\bin\Debug\Shapes.pdb
+H:\c#\HomeWorkLesson1\HomeWork1\obj\Debug\HomeWork1.csproj.AssemblyReference.cache
+H:\c#\HomeWorkLesson1\HomeWork1\obj\Debug\HomeWork1.csproj.CoreCompileInputs.cache
+H:\c#\HomeWorkLesson1\HomeWork1\obj\Debug\HomeWork1.csproj.Up2Date
+H:\c#\HomeWorkLesson1\HomeWork1\obj\Debug\HomeWork1.exe
+H:\c#\HomeWorkLesson1\HomeWork1\obj\Debug\HomeWork1.pdb
