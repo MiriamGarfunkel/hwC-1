@@ -1,0 +1,15 @@
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfoInputs.cache
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.AssemblyInfo.cs
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.sourcelink.json
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.exe
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.deps.json
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.runtimeconfig.json
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.dll
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\bin\Debug\net8.0\Lesson7.pdb
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.dll
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\refint\Lesson7.dll
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.pdb
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\Lesson7.genruntimeconfig.cache
+C:\Users\Miriam\Desktop\הנדסאים שנה ב\C#\Lesson7\Lesson7\obj\Debug\net8.0\ref\Lesson7.dll

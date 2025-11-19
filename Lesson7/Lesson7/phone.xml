@@ -1,0 +1,16 @@
+<phones>
+  <phone num="1">
+    <calls>
+      <call start="11:00" length="25" destination="chaya"></call>
+      <call start="10:10" length="5" destination="miriam"></call>
+      <call start="01:16" length="8" destination="dina"></call>
+    </calls>
+  </phone>
+  <phone num="2">
+    <calls>
+      <call start="03:00" length="45" destination="tova"></call>
+      <call start="10:30" length="17" destination="shira"></call>
+      <call start="04:05" length="20" destination="michal"></call>
+    </calls>
+  </phone>
+</phones>
