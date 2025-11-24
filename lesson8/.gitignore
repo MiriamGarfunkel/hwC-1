@@ -1,0 +1,19 @@
+﻿# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Databases
+*.mdf
+*.ldf
+
+# EF Migrations snapshots (אם נוצרו אוטומטית)
+*.jfm
+
+# Others
+*.cache
+*.log
